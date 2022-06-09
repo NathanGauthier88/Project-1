@@ -8,6 +8,8 @@
 body{
     
     font-family: Helvetica, sans-serif;
+    height: 100%;
+    margin: 0em;
 
 }
 
@@ -21,6 +23,20 @@ form{
     justify-content: center;
 }
 
+main {
+    height: 100%;
+    margin: 0em;
+}
+
+#cityResult{
+    font-size: 30px;
+    height: 100%;
+    margin: 0em;
+    overflow: scroll;
+    position: fixed;
+    
+}
+
 footer{
     display: flex;
     bottom: 0;
@@ -29,3 +45,6 @@ footer{
     justify-content: flex-end;
 }
 
+#input {
+    padding: 5px;
+}
