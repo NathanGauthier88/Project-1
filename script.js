@@ -15,9 +15,9 @@ console.log(textInput)
            console.log(res)
            cityShow.innerHTML = ""
            res.forEach(brewery => {
-               const p = document.createElement("p")
-               p.innerText = brewery.name.toLowerCase()
-               cityShow.appendChild(p)
+               const li = document.createElement("li")
+               li.innerText = brewery.name.toLowerCase()
+               cityShow.appendChild(li)
            })
         })
 }
@@ -25,6 +25,7 @@ console.log(textInput)
 search.addEventListener("submit", getData)
 
 
-    
+
+
 
   
