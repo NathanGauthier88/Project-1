@@ -18,7 +18,6 @@ A simple locator site that allows users to find breweries within a given city
 - HTML5
 - CSS3
 - Javascript
-- Bootstrap 
 
 # Screenshots
 
@@ -26,7 +25,7 @@ SCREENSHOT OF FINDER
 
 #  Getting Started
 
-[Click here]() to find beer
+![Follow me](https://62b1220485b3503d561056d2--gregarious-malasada-7b6e6e.netlify.app) to find beer
 
 # Future Enhancements 
 
@@ -35,3 +34,5 @@ SCREENSHOT OF FINDER
 - Allow user(s), to add/save breweries for future reference
 
 - Have a box/card that shows the results neatly 
+
+- Have google maps street view show brewery

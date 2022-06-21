@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-   
 }
 
 body{
@@ -11,8 +10,6 @@ body{
     height: 100%;
     margin: 0em;
     background-color: #ffad33;
-
-   
 }
 
 header{
@@ -32,9 +29,6 @@ main {
     height: 100%;
     margin: 0em;
     display: flex;
-  
-   
-   
 }
 
 #cityResult{
