@@ -21,11 +21,11 @@ A simple locator site that allows users to find breweries within a given city
 
 # Screenshots
 
-![image](Screen Shot 2022-06-20 at 7.39.44 PM)
+![image](Screen Shot 2022-06-20 at 7.39.44 PM.png)
 
 #  Getting Started
 
-[Follow me](https://62b1220485b3503d561056d2--gregarious-malasada-7b6e6e.netlify.app) to find beer
+[Follow me](https://gregarious-malasada-7b6e6e.netlify.app/) to find beer
 
 # Future Enhancements 
 
