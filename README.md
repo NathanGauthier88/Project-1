@@ -21,7 +21,7 @@ A simple locator site that allows users to find breweries within a given city
 
 # Screenshots
 
-![image](https://imgur.com/a/ToxAPZH "screenshot")
+![image](https://imgur.com/YT3j0Kt)
 
 #  Getting Started
 
